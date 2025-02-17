@@ -17,6 +17,11 @@
 - [Abdulhadi Zubailah](https://www.linkedin.com/in/abdulhadi-zubailah/)
 - [Mozn Alshehri](https://www.linkedin.com/in/mozn-alshehri-98b440302/)
 - [Osamah Sarraj](https://www.linkedin.com/in/osamah-sarraj/)
+- [Ahmed Almohammed](https://www.linkedin.com/in/ahmed-almohammed)
+- [Ali Alqutayfi](https://www.linkedin.com/in/ali-alqutayfi)
+- [Hassain Alsayhah](https://www.linkedin.com/in/hassain-alsayhah)
+- [Abdullah Jan](https://www.linkedin.com/in/abdullah-jan-929694298)
+- [Sameer Alsabea](https://www.linkedin.com/in/sameer-alsabea-610291239/)
 - Others
 
 ## Program Overview
