@@ -143,7 +143,7 @@ Participants who successfully complete the program and meet attendance requireme
   ❌ Smartwatches  
   ❌ Laptops  
   ❌ Any other electronic device  
-  ❌ LLMs Of Any Kind, If caught using one they will be kicked on the spot
+  ❌ LLMs of any kind, If caught using one they will be kicked on the spot
 
 ## 💬 Feedback & Questions  
 
