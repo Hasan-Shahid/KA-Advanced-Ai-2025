@@ -101,7 +101,7 @@ The **KAUST Academy Advanced Artificial Intelligence Program 2025** is designed 
 | -------- | ----------- | ------- |
 | 9:00AM - 11:00AM | **Paper EXAM** | Paper Based |
 | 11:00AM - **1:30PM** | **Break** | **Al-Jumah Prayer & Lunch Break** |
-| **2:00PM - 3:30PM** | **Practical Exam** | **No Break, No Class After Prayer** |
+| **2:00PM - 5:00PM** | **Practical Exam** | **No Break, No Class After Prayer** |
 
 ---
 
