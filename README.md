@@ -145,8 +145,4 @@ Participants who successfully complete the program and meet attendance requireme
   ❌ Any other electronic device  
   ❌ LLMs of any kind, if a student is caught using one they will be kicked on the spot
 
-## 💬 Feedback & Questions  
-
-If you have any **suggestions, feedback, or concerns**, feel free to share! Your input is valuable in ensuring a smooth examination process.  
-
 ---
