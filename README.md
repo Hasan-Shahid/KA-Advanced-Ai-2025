@@ -73,7 +73,7 @@ The **KAUST Academy Advanced Artificial Intelligence Program 2025** is designed 
 
 ## 📅 Program Schedule  
 >
-> The program will cover Information Security fundamentals and fields, including but not limited to:
+> The program will cover Computer Vision fundamentals over the following days, it is subject to change per location:
 
 ### **Day 1 (Saturday, February 15, 2025)**
 
