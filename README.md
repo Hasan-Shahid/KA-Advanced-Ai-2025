@@ -14,6 +14,7 @@
 ## Teaching Assistants
 
 - [Yazan Alshuaibi](https://www.linkedin.com/in/yazenalshaebi/)
+- [Abdulelah Khalaf](https://www.linkedin.com/in/abdulelah-khalaf-b3b8942b5/)
 - [Abdulhadi Zubailah](https://www.linkedin.com/in/abdulhadi-zubailah/)
 - [Mozn Alshehri](https://www.linkedin.com/in/mozn-alshehri-98b440302/)
 - [Osamah Sarraj](https://www.linkedin.com/in/osamah-sarraj/)
