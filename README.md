@@ -121,7 +121,7 @@ Participants who successfully complete the program and meet attendance requireme
 
 ## 📝 Paper Exam Format  
 
-- **Total Questions:** 100 Multiple Choice Questions (MCQs)  
+- **Total Questions:** 80 Multiple Choice Questions (MCQs)  
 - **Duration:** 120 minutes  
 - **Coverage:** Theoretical and practical aspects of the course  
 - **Exam Type:** Paper-based  
@@ -129,8 +129,8 @@ Participants who successfully complete the program and meet attendance requireme
 ## ⏰ Paper Exam Schedule  
 
 - **📅 Date:** 21st February 2025  
-- **🕑 Start Time:** 9:00 AM  
-- **🕞 End Time:** 11:00 AM  
+- **🕑 Start Time:** 9:30 AM  
+- **🕞 End Time:** 11:30 AM  
 - **📍 Venues:** All venues will start simultaneously  
 
 ## ⏰ Practical Exam Schedule  
