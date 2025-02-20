@@ -148,8 +148,7 @@ Participants who successfully complete the program and meet attendance requireme
 - **Coverage:** Practical aspects of the course  
 - **Exam Type:** Computer-based
 
-
-## 📌 Exam Rules  
+## 📌 Paper Exam Rules  
 
 - The exam is **closed book**, meaning the following items are **not allowed**:  
   ❌ Notes  
@@ -158,6 +157,13 @@ Participants who successfully complete the program and meet attendance requireme
   ❌ Smartwatches  
   ❌ Laptops  
   ❌ Any other electronic device  
+  ❌ LLMs of any kind, if a student is caught using one they will be kicked on the spot
+
+## 📌 Practical Exam Rules  
+
+- The exam is **Semi closed book**, meaning the following items are **not allowed**:  
+  ❌ Phones  
+  ❌ Smartwatches  
   ❌ LLMs of any kind, if a student is caught using one they will be kicked on the spot
 
 ---
