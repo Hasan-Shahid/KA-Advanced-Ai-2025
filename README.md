@@ -130,7 +130,8 @@ Participants who successfully complete the program and meet attendance requireme
 
 - **📅 Date:** 21st February 2025  
 - **🕑 Start Time:** 9:30 AM  
-- **🕞 End Time:** 11:30 AM  
+- **🕞 End Time:** 11:30 AM
+- **🕞 No student will be allowed in after 9:45AM**  
 - **📍 Venues:** All venues will start simultaneously  
 
 ## ⏰ Practical Exam Schedule  
@@ -139,6 +140,14 @@ Participants who successfully complete the program and meet attendance requireme
 - **🕑 Start Time:** 2:00 PM  
 - **🕞 End Time:** 5:00 PM  
 - **📍 Venues:** All venues will start simultaneously  
+
+## 💻 Practical Exam Format
+
+- **Total Questions:** 3 Coding questions, plus an extra worth 10 Grades
+- **Duration:** 180 Minutes
+- **Coverage:** Practical aspects of the course  
+- **Exam Type:** Computer-based
+
 
 ## 📌 Exam Rules  
 
