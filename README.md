@@ -23,6 +23,7 @@
 - [Hassain Alsayhah](https://www.linkedin.com/in/hassain-alsayhah)
 - [Abdullah Jan](https://www.linkedin.com/in/abdullah-jan-929694298)
 - [Sameer Alsabea](https://www.linkedin.com/in/sameer-alsabea-610291239/)
+- [Mohammed Bremoo](www.linkedin.com/in/mohammed-bremoo)
 - Others
 
 ## Program Overview
@@ -105,7 +106,7 @@ The **KAUST Academy Advanced Artificial Intelligence Program 2025** is designed 
 
 | Time    | Session Type | Activity |
 | -------- | ----------- | ------- |
-| 9:00AM - 11:00AM | **Paper EXAM** | Paper Based |
+| 9:30AM - 11:30AM | **Paper EXAM** | Paper Based |
 | 11:00AM - **1:30PM** | **Break** | **Al-Jumah Prayer & Lunch Break** |
 | **2:00PM - 5:00PM** | **Practical Exam** | **No Break, No Class After Prayer** |
 
