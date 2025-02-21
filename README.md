@@ -143,7 +143,7 @@ Participants who successfully complete the program and meet attendance requireme
 - **📍 Venues:** All venues will start simultaneously  
 
 ## 💻 Practical Exam Format
-
+- [Exam link](https://naeemullah-khan.github.io/KAExams/ExamKAAAI25)
 - **Total Questions:** 3 Coding questions, plus an extra worth 10 Grades
 - **Duration:** 180 Minutes
 - **Coverage:** Practical aspects of the course  
