@@ -23,7 +23,7 @@
 - [Hassain Alsayhah](https://www.linkedin.com/in/hassain-alsayhah)
 - [Abdullah Jan](https://www.linkedin.com/in/abdullah-jan-929694298)
 - [Sameer Alsabea](https://www.linkedin.com/in/sameer-alsabea-610291239/)
-- [Mohammed Bremoo](www.linkedin.com/in/mohammed-bremoo)
+- [Mohammed Bremoo](https://www.linkedin.com/in/mohammed-bremoo/)
 - Others
 
 ## Program Overview
