@@ -1,0 +1,11 @@
+https://observablehq.com/@yizhe-ang/interactive-visualization-of-linear-regression
+https://mlu-explain.github.io/logistic-regression/
+https://mlu-explain.github.io/linear-regression/
+https://mlu-explain.github.io/train-test-validation/
+https://mlu-explain.github.io/neural-networks/
+https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=spiral&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2,2,2&seed=0.65767&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=regression&initZero=false&hideText=false
+https://mco-mnist-draw-rwpxka3zaa-ue.a.run.app/
+https://trekhleb.dev/machine-learning-experiments/#/experiments/SketchRecognitionMLP
+https://trekhleb.dev/machine-learning-experiments/#/experiments/RockPaperScissorsMobilenetV2
+https://trekhleb.dev/machine-learning-experiments/#/experiments/RockPaperScissorsMobilenetV2
+https://github.com/amrzv/awesome-colab-notebooks
